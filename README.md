@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...https://www.linkedin.com/in/pratyush-nishchal-a0ba21190/
 - 😄 Pronouns: He/His
 - ⚡Email: pratyushnishchal@gmail.com
--->
