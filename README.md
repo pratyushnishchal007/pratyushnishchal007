@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Angular JS , React JS**
 
-- 💬 Ask me about **Frontend Development,Data Analytics,Programming languages like Java, Python, R**
+- 💬 Ask me about **Frontend Development,Data Analytics,Programming languages like Java, Python, R, PHP**
 
 - 📫 How to reach me **pratyushnishchal@gmail.com**
 
