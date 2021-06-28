@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratyush Nishchal</h1>
-<h3 align="center">Computer Science Engineering Sophomore from VIT University| Interested in Coding and Web Development</h3>
+<h3 align="center">Computer Science Engineering Sophomore from VIT University | Interested in Coding and Web Development</h3>
 
 - 🔭 I’m currently working on **Web development**
 
