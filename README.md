@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend Development Projects**
 
-- 🤝 I’m looking for help with **Angular JS , React JS**
+- 🤝 I’m looking for help with **React JS**
 
 - 💬 Ask me about **Frontend Development,Data Analytics,Programming languages like Java, Python, R**
 
